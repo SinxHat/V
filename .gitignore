@@ -1,0 +1,14 @@
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# Dependencies
+node_modules/
+
+# Environment secrets
+.env
+.env.*
+
+# Build files
+dist/
